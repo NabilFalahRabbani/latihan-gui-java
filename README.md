@@ -4,8 +4,8 @@ Tugas **3C - Latihan/Eksplorasi Materi Graphical User Interface pada Java**.
 
 | | |
 |---|---|
-| **NIM** | `ISI_NIM_KAMU` |
-| **Nama** | `ISI_NAMA_KAMU` |
+| **NIM** | `F1D02510126` |
+| **Nama** | `Nabil Falah Rabbani` |
 
 ## Deskripsi Singkat
 Aplikasi desktop sederhana berbasis **Java Swing** untuk mengisi biodata mahasiswa
