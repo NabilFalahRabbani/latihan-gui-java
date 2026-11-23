@@ -88,6 +88,5 @@ latihan-gui-java/
 │   ├── 01-tampilan-awal.png
 │   ├── 02-setelah-simpan.png
 │   └── 03-validasi.png
-├── .gitignore
 └── README.md
 ```
